@@ -9,25 +9,30 @@
 
 ## Technology
 ### Backend
-- PIFuHD
+- PIFuHD ()
 - FastAPI
 - ~~MySQL~~
 
 ### Frontend
 - React
 - TypeScripts
+- CSS ( Tailwind )
 - 
+
 ### Tools
 - Docker
 - GitHub
 
 
 ## Running code
-```
-git clone https://github.com/Treeitsuki/Web-App_Image_to_3DModel.git
-```
-```
-docker compose up -d
-```
+1. Clone my repository
+    ```
+    git clone https://github.com/Treeitsuki/Web-App_Image_to_3DModel.git
+    ```
+2. Launch docker
+    ```
+    docker compose up -d
+    ```
+3. 
 
 ## Demo Video
