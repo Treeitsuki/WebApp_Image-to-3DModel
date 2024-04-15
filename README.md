@@ -9,20 +9,13 @@
 
 ## Technology
 ### Backend
-- PIFuHD ()
-- FastAPI
-- ~~MySQL~~
+- PIFuHD ( 3D generation model )
+- FastAPI ( Connection between front-end and back-end )
+- ~~MySQL ( Database for user management )~~
 
 ### Frontend
-- React
-- TypeScripts
+- React & TypeScripts ( Use the TailAdmin template )
 - CSS ( Tailwind )
-- 
-
-### Tools
-- Docker
-- GitHub
-
 
 ## Running code
 1. Clone my repository
@@ -31,8 +24,11 @@
     ```
 2. Launch docker
     ```
-    docker compose up -d
+    docker-compose up -d
     ```
-3. 
+3. Access the application
+    
+    http://localhost:8080/
+    
 
-## Demo Video
+## Demo Images
