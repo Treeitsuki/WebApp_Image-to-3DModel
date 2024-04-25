@@ -8,7 +8,7 @@
 </div>
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This product is currently under development.
 
 ## Technology
 ### Backend
