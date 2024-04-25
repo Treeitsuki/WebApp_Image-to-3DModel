@@ -20,7 +20,7 @@
 - React & TypeScripts ( Use the TailAdmin template )
 - CSS ( Tailwind )
 
-## Running code
+## ~~Running code~~
 1. Clone my repository
     ```
     git clone https://github.com/Treeitsuki/Web-App_Image_to_3DModel.git
