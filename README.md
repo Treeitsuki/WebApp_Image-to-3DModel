@@ -7,6 +7,9 @@
 
 </div>
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ## Technology
 ### Backend
 - PIFuHD ( 3D generation model )
