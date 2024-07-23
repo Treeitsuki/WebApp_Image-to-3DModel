@@ -14,13 +14,12 @@
 ### Backend
 - PIFuHD ( 3D generation model )
 - FastAPI ( Connection between front-end and back-end )
-- ~~MySQL ( Database for user management )~~
 
 ### Frontend
 - React & TypeScripts ( Use the TailAdmin template )
 - CSS ( Tailwind )
 
-## ~~Running code~~
+## Running code
 1. Clone my repository
     ```
     git clone https://github.com/Treeitsuki/Web-App_Image_to_3DModel.git
